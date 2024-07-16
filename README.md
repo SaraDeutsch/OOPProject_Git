@@ -11,3 +11,8 @@ The **CRUD** functions perform the basic neccesities of the database:
 - **Read**- Reads the information of one entitiy of that class or the list of all of the entitis
 -  **Update**- Updates an entity of that class
 -  **Delete**- Deletes an entity of that class
+
+# Accessing Content
+If you have trouble accessing the program using a Github codespace, select the option to open it using Visual Studio.
+
+*It was created using Visual Studio V.2022*
